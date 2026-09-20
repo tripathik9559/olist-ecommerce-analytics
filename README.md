@@ -224,15 +224,6 @@ python python/data_cleaning.py
 
 ---
 
-## 📌 Interview Tip
 
-When asked "Tell me about your project," use this structure:
-> *"I built an end-to-end e-commerce analytics project using the Olist public dataset.
-> I used MySQL for data modeling and querying business KPIs, Excel for pivot-based
-> reporting, and Power BI for an interactive dashboard. Key findings were that São Paulo
-> dominates revenue, ~97% of customers buy only once, and average delivery is 12 days
-> with about 8-10% orders getting delayed."*
-
----
 
 *See `docs/INTERVIEW_QA.md` for 15 questions with full answers.*
